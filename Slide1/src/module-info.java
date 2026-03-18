@@ -4,5 +4,5 @@
 /**
  * 
  */
-module MOB1014_JAVA2 {
+module PS48509_Lab1 {
 }
